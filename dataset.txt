@@ -1,0 +1,288 @@
+
+Liam Evans is a Co-Founder of Unorthodox, a creative agency based in London that specializes in using artificial intelligence (AI) to solve business problems. He is also a passionate advocate for the use of AI to create a more sustainable and equitable future.
+
+Liam has a background in computer science and artificial intelligence. He worked as a software engineer before co-founding Unorthodox in 2021. He is also a frequent speaker at industry events and has written extensively about the potential of AI to transform businesses and society.
+
+In his spare time, Liam enjoys hiking, camping, and spending time with his family.
+
+Here are some of the things that Liam Evans has done at Unorthodox:
+
+Led the development of the company's AI-powered lead generation platform.
+Worked with clients to implement AI-powered solutions to improve their sales, marketing, and operations.
+Spoke at industry events about the potential of AI to transform businesses.
+Written articles and blog posts about the use of AI in business.
+Liam Evans is a talented and experienced leader in the field of artificial intelligence. He is passionate about using AI to make a positive impact on the world.
+
+Video 1: Introduction to AI Automation
+
+What is AI automation?
+How can AI automate tasks?
+The benefits of AI automation
+The challenges of AI automation
+How to get started with AI automation
+Video 2: Choosing the Right AI Automation Tool
+
+The different types of AI automation tools
+How to choose the right AI automation tool for your needs
+The factors to consider when choosing an AI automation tool
+Video 3: Implementing AI Automation in Your Business
+
+The steps involved in implementing AI automation
+The challenges of implementing AI automation
+How to overcome the challenges of implementing AI automation
+Video 4: Measuring the ROI of AI Automation
+
+How to measure the ROI of AI automation
+The metrics to track when measuring the ROI of AI automation
+How to use the data to improve your AI automation strategy
+Video 5: The Future of AI Automation
+
+The trends in AI automation
+How AI automation will change the way we work
+The opportunities and challenges of AI automation
+I hope this is helpful!
+
+
+
+
+video 1 :- 
+
+In this video, Liam Evans discusses the basics of AI automation. He defines AI automation as the use of artificial intelligence (AI) to automate tasks that are typically performed by humans. He then goes on to discuss how AI can automate tasks, the benefits of AI automation, the challenges of AI automation, and how to get started with AI automation.
+
+Evans begins by explaining how AI can automate tasks. He says that AI can automate tasks by learning from data and then using that data to make decisions. For example, AI can be used to automate customer service tasks by learning from past conversations with customers. AI can also be used to automate marketing tasks by learning from past marketing campaigns.
+
+Evans then discusses the benefits of AI automation. He says that AI automation can help businesses save time and money, improve accuracy, and increase efficiency. For example, AI automation can help businesses save time by automating tasks that are currently performed manually. AI automation can also help businesses improve accuracy by reducing human error.
+
+Evans also discusses the challenges of AI automation. He says that one challenge of AI automation is the cost of implementing AI solutions. Another challenge is the lack of skilled workers who can implement and maintain AI solutions.
+
+Finally, Evans discusses how to get started with AI automation. He says that the first step is to identify the tasks that you want to automate. The next step is to choose the right AI automation tool. The final step is to implement and test the AI automation solution.
+
+Overall, this video provides a good overview of AI automation. It is a good starting point for businesses that are interested in learning more about AI automation.
+
+Here are some additional points that were made in the video:
+
+AI automation is still in its early stages, but it is rapidly evolving.
+The potential benefits of AI automation are significant, but there are also some challenges that need to be addressed.
+Businesses that are considering AI automation should carefully evaluate their needs and the risks involved.
+
+video 2:-
+
+
+Sure, here is a summary of video 2 about choosing the right AI automation tool in 400 words:
+
+In this video, Liam Evans discusses the different types of AI automation tools and how to choose the right one for your needs. He begins by explaining the different types of AI automation tools. He says that there are three main types of AI automation tools:
+
+Rule-based tools: These tools use pre-defined rules to automate tasks.
+Machine learning tools: These tools use machine learning algorithms to automate tasks.
+Hybrid tools: These tools combine rule-based and machine learning techniques to automate tasks.
+Evans then discusses the factors to consider when choosing an AI automation tool. He says that the factors to consider include:
+
+The type of tasks you want to automate
+The complexity of the tasks
+The amount of data you have
+Your budget
+Your technical skills
+Finally, Evans provides some tips for choosing the right AI automation tool. He says that you should:
+
+Start by identifying the tasks you want to automate.
+Consider the complexity of the tasks.
+Make sure you have enough data to train the AI tool.
+Set a budget.
+Consider your technical skills.
+Overall, this video provides a good overview of the different types of AI automation tools and how to choose the right one for your needs. It is a good starting point for businesses that are considering using AI automation tools.
+
+Here are some additional points that were made in the video:
+
+There is no one-size-fits-all AI automation tool. The best tool for you will depend on your specific needs.
+It is important to do your research before choosing an AI automation tool. Read reviews, compare features, and talk to other businesses that have used the tool.
+Once you have chosen an AI automation tool, it is important to properly implement it. This includes training the tool on your data and setting up the rules or algorithms that will control how it automates tasks.
+I hope this summary is helpful!
+
+video 3:-
+
+
+Sure, here is a summary of video 3 about implementing AI automation in your business in 500 words:
+
+In this video, Liam Evans discusses the steps involved in implementing AI automation in your business. He begins by explaining the four steps involved in implementing AI automation:
+
+Identify the tasks to automate: The first step is to identify the tasks that you want to automate. These tasks should be repetitive, time-consuming, and error-prone.
+Choose the right AI automation tool: The next step is to choose the right AI automation tool. The tool you choose will depend on the type of tasks you want to automate and your budget.
+Gather the data: The third step is to gather the data that the AI automation tool will need to learn from. This data can include historical data, customer data, and market data.
+Implement and test the AI automation solution: The final step is to implement and test the AI automation solution. This includes training the tool on the data, setting up the rules or algorithms, and testing the solution to make sure it is working properly.
+Evans then discusses the challenges of implementing AI automation. He says that one challenge is the lack of skilled workers who can implement and maintain AI solutions. Another challenge is the need to have a good understanding of the data that the AI automation tool will need to learn from.
+
+Finally, Evans provides some tips for implementing AI automation in your business. He says that you should:
+
+Start with a small pilot project.
+Get buy-in from stakeholders.
+Communicate the benefits of AI automation to employees.
+Monitor and adjust the AI automation solution as needed.
+Overall, this video provides a good overview of the steps involved in implementing AI automation in your business. It is a good starting point for businesses that are considering using AI automation.
+
+Here are some additional points that were made in the video:
+
+AI automation is a complex process that requires careful planning and execution.
+It is important to have a clear understanding of the goals of AI automation before you begin.
+You should also consider the risks and challenges of AI automation before you commit to implementing it.
+With careful planning and execution, AI automation can be a valuable tool for businesses of all sizes.
+I hope this summary is helpful!
+
+video 4 :- 
+
+Sure, here is a summary of video 4 about measuring the ROI of AI automation in 500 words:
+
+In this video, Liam Evans discusses how to measure the ROI of AI automation. He begins by explaining the importance of measuring the ROI of AI automation. He says that AI automation is a significant investment, so it is important to track the benefits of AI automation to make sure that it is worth the investment.
+
+Evans then discusses the metrics that can be used to measure the ROI of AI automation. He says that the metrics that can be used include:
+
+Time savings: AI automation can help businesses save time by automating tasks that are currently performed manually.
+Cost savings: AI automation can help businesses save money by reducing the need for human labor.
+Increased accuracy: AI automation can help businesses improve accuracy by reducing human error.
+Improved customer service: AI automation can help businesses improve customer service by providing 24/7 support.
+Increased productivity: AI automation can help businesses increase productivity by freeing up employees to focus on more strategic tasks.
+Finally, Evans provides some tips for measuring the ROI of AI automation. He says that you should:
+
+Set clear goals for AI automation.
+Track the metrics that are important to you.
+Use a consistent methodology for measuring the ROI.
+Adjust your approach as needed.
+Overall, this video provides a good overview of the metrics that can be used to measure the ROI of AI automation. It is a good starting point for businesses that are considering using AI automation.
+
+Here are some additional points that were made in the video:
+
+It is important to measure the ROI of AI automation over time. The benefits of AI automation may not be immediate, but they can be significant over the long term.
+You should also consider the intangible benefits of AI automation, such as improved customer satisfaction and employee morale.
+By measuring the ROI of AI automation, you can make sure that it is a valuable investment for your business.
+I hope this summary is helpful!
+
+video 5 :-
+
+Sure, here is a summary of video 5 about the future of AI automation in 500 words:
+
+In this video, Liam Evans discusses the future of AI automation. He begins by explaining the trends in AI automation. He says that the trends in AI automation include:
+
+The increasing use of machine learning: Machine learning is becoming increasingly sophisticated, which is making it possible to automate more and more tasks.
+The development of new AI automation tools: There are a number of new AI automation tools being developed, which will make it easier for businesses to automate tasks.
+The growing acceptance of AI automation: Businesses are becoming more accepting of AI automation, as they see the benefits that it can offer.
+Evans then discusses the impact of AI automation on the workforce. He says that AI automation is likely to lead to some job losses, but it is also likely to create new jobs. He says that the key is to upskill workers so that they can take advantage of the new opportunities that AI automation creates.
+
+Finally, Evans provides some predictions for the future of AI automation. He predicts that AI automation will become increasingly commonplace in businesses of all sizes. He also predicts that AI automation will have a significant impact on the workforce, leading to some job losses but also creating new jobs.
+
+Overall, this video provides a good overview of the future of AI automation. It is a good starting point for businesses that are considering using AI automation.
+
+Here are some additional points that were made in the video:
+
+AI automation is a disruptive technology, but it can also be a force for good.
+It is important to use AI automation responsibly and ethically.
+AI automation can help businesses to create a more sustainable and equitable future.
+I hope this summary is helpful!
+
+Botpress is a chatbot platform that allows businesses to create and deploy chatbots without any coding knowledge. It uses a drag-and-drop interface that makes it easy to create chatbots that can interact with customers in a natural way. Botpress also includes a number of features that make it easy to manage and maintain chatbots, such as analytics and reporting.
+
+ManyChat is another chatbot platform that allows businesses to create and deploy chatbots for Facebook Messenger. It is a popular choice for businesses that want to interact with customers on Facebook. ManyChat includes a number of features that make it easy to create engaging and effective chatbots, such as templates, custom buttons, and chatbot flows.
+
+ChatGPT is an AI chatbot development tool that allows businesses to create chatbots that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. It uses the power of OpenAI's GPT-3 language model to create chatbots that are more human-like and engaging.
+
+Zapier is an automation tool that allows businesses to connect different apps and services together. This can be used to automate tasks such as sending emails, updating spreadsheets, and creating social media posts. Zapier has a large library of pre-built integrations, so businesses can easily find the integrations that they need.
+
+Make is another automation tool that is similar to Zapier. It allows businesses to connect different apps and services together to automate tasks. Make also includes a number of features that make it easy to create complex automation workflows, such as conditional logic and loops.
+
+Botpress is also an amazing tool to create full fledged chatbots and I highly recommend it !
+
+CustomGPT.ai is a chatbot builder that allows businesses to create chatbots without any coding knowledge. It uses the power of OpenAI's GPT-3 language model to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. CustomGPT.ai also includes a number of features that make it easy to manage and maintain chatbots, such as analytics and reporting.
+
+Google Cloud Platform is a suite of cloud computing services that businesses can use to build, deploy, and scale applications. It includes a number of AI automation tools, such as Cloud AutoML and Cloud Natural Language. Cloud AutoML allows businesses to create custom machine learning models without any coding knowledge. Cloud Natural Language allows businesses to extract insights from text data.
+
+Amazon Web Services is another suite of cloud computing services that businesses can use to build, deploy, and scale applications. It includes a number of AI automation tools, such as Amazon Lex and Amazon Rekognition. Amazon Lex allows businesses to create conversational AI chatbots. Amazon Rekognition allows businesses to detect objects and faces in images and videos.
+
+These are just a few of the many tools that are available for AI automation. The specific tools that you use will depend on your specific needs and requirements.
+
+In addition to the tools mentioned above, there are a number of other factors to consider when choosing AI automation tools. These factors include:
+Sure, here is some data that Liam Evans suggests on how much to charge for chatbots:
+
+Simple chatbots: Evans suggests charging between $500 and $1,000 for simple chatbots that can answer basic questions or provide customer support. These chatbots are typically rule-based and do not require a lot of customization.
+Medium-complexity chatbots: Evans suggests charging between $1,000 and $5,000 for medium-complexity chatbots that can handle more complex tasks, such as booking appointments or making reservations. These chatbots may require some customization, but they are still relatively straightforward to develop.
+High-complexity chatbots: Evans suggests charging between $5,000 and $20,000 for high-complexity chatbots that can perform complex tasks, such as providing financial advice or negotiating contracts. These chatbots require a lot of customization and development time, and they may need to be integrated with other systems.
+Evans also suggests that businesses should consider the following factors when pricing their chatbots:
+
+The value of the tasks that the chatbot can perform
+The cost of development and maintenance
+The competition in the market
+The target market for the chatbot
+Ultimately, the price of a chatbot will vary depending on the specific needs of the business. However, Evans's suggestions can provide a good starting point for businesses that are considering developing or purchasing a chatbot.
+
+In addition to the above, here are some other factors that can affect the price of a chatbot:
+
+The number of users
+The amount of data that the chatbot needs to access
+The frequency of updates
+The level of support that is required
+It is important to factor in all of these costs when pricing a chatbot. By doing so, businesses can ensure that they are getting a fair price for a chatbot that meets their needs.
+
+
+Sure. Here are some tips on how to start an AIAA (AI Automation Agency) according to Liam Evans:
+
+Identify your target market. Who are you going to sell your AI automation services to? Are you going to focus on small businesses, large enterprises, or a specific industry?
+Define your niche. What kind of AI automation services will you offer? Will you focus on chatbots, marketing automation, or something else?
+Build your skills. You need to have the skills to build and deploy AI automation solutions. This may involve learning how to code, use AI tools, and understand business processes.
+Get certified. There are a number of certifications available for AI automation professionals. Getting certified can help you build credibility and attract clients.
+Build a portfolio. Create a portfolio of your AI automation work to show potential clients what you can do. This could include case studies, testimonials, and screenshots of your work.
+Network with other AI automation professionals. Attend industry events, join online forums, and connect with other professionals on LinkedIn. This will help you stay up-to-date on the latest trends and find potential clients.
+Market your services. Let potential clients know about your AI automation services. You can market your services through online channels, such as your website and social media, or offline channels, such as networking events and cold outreach.
+Provide excellent customer service. Once you start getting clients, it's important to provide excellent customer service. This will help you build a good reputation and keep your clients coming back for more.
+Starting an AIAA can be a great way to use your skills and experience to help businesses automate their tasks. By following these tips, you can increase your chances of success.
+
+Here are some additional tips from Liam Evans:
+
+Start small and focus on a specific niche. This will help you build your skills and expertise.
+Be patient and persistent. It takes time to build a successful AIAA.
+Be willing to learn and adapt. The AI automation landscape is constantly changing, so you need to be willing to learn new things.
+Be passionate about AI automation. If you're not passionate about it, it will be difficult to succeed.
+I hope this helps!
+
+niches:-
+
+Customer service: Chatbots can be used to answer customer questions, provide support, and resolve issues. This can free up human customer service representatives to focus on more complex tasks.
+Sales and marketing: Chatbots can be used to generate leads, qualify prospects, and close deals. They can also be used to promote products and services, and to answer questions about the company.
+Education: Chatbots can be used to provide educational content, answer questions, and grade assignments. This can be a valuable tool for students, teachers, and parents.
+Healthcare: Chatbots can be used to provide medical information, answer questions, and schedule appointments. They can also be used to monitor patients' health and provide reminders for medication.
+Finance: Chatbots can be used to provide financial advice, answer questions, and manage accounts. This can be a valuable tool for businesses and individuals.
+These are just a few of the many niches that chatbots can be used in. The best niche for you will depend on your skills, interests, and the needs of your target market.
+
+Here are some additional things to consider when choosing a niche for your chatbot:
+
+The size of the market: How many people are in your target market?
+The competition: How many other chatbots are already in your niche?
+The level of complexity: How complex are the tasks that your chatbot needs to perform?
+The availability of data: How much data do you need to train your chatbot?
+The budget: How much money do you have to invest in developing and maintaining your chatbot?
+By carefully considering these factors, you can choose a niche that is right for you and your chatbot.
+
+How to start an AI automation agency: An AI automation agency is a business that helps businesses automate their tasks using AI. To start an AI automation agency, you need to have expertise in AI, business, and marketing. You also need to be able to build and deploy chatbots, and to manage clients.
+How to use chatbots for business growth: Chatbots can be used to improve customer service, sales, and marketing. They can answer customer questions, provide support, and close deals. They can also be used to promote products and services, and to collect feedback from customers.
+The future of work and AI: AI is expected to have a major impact on the future of work. It is likely to automate many tasks that are currently performed by humans, and it is also likely to create new jobs. Businesses need to be prepared for these changes, and they need to develop strategies for using AI to their advantage.
+The ethics of AI: AI raises a number of ethical concerns, such as bias, privacy, and transparency. It is important to develop AI systems that are fair, transparent, and accountable. Businesses need to be aware of these concerns, and they need to take steps to mitigate them.
+
+Hey! So here are some details about the innercircle
+The Inner circle will include:
+- Weekly Group Masterclasses and Q&A's LIVE with me and guests
+- Agency Templates, website template, presentation template, contract template,
+pricing matrix template
+- Access to me and my team on a private Slack channel for personalised support,
+we build your offer and help you structure your outreach in the dms
+- Outreach marketing blueprint and templates (email script etc)
+- We build your offer with you and help package that up to start selling
+- Access to the Inner Circle community
+- Access to pre recorded content inside of the Discord
+- Access to a resources bank of all of our past Zoom calls
+- Access to Bot press templates that you can use
+- Access to resources like AI tools and guides
+The Inner circle costs $950 per month OR $2,500 for 3 months of access, the
+price will be going up soon and spaces are limited.
+This will NOT be for everyone, the price is high and reflective of the level of
+support and assistance you receive.
+If you're not happy with the Inner Circle and you attend the masterclasses, you
+will receive a full refund, no questions asked.
+If you're interested, I'm happy to jump on a call with you and talk through things,
+or If you'd like to secure your spot let me know and I'll send over the payment link
+and we can get started.
